@@ -1,10 +1,10 @@
 # GitTeamProject
 
 # 푸터 생성
-- footer.md 생성
+- footer.html 추가
 
 # 상품추천
-- 상품추천
+- 상품추천.html 추가
 
 ## 결제
 - 상품결제.html
